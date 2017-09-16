@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "just a node starting template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-akshay/Boilerplate.git"
+  },
+  "author": "G Akshay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g-akshay/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/g-akshay/Boilerplate#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
